@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: docker.io/shubham/posts:0.0.1
+      image: docker.io/8279869707/posts:0.0.1
